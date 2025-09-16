@@ -1,0 +1,14 @@
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\bin\Release\Bilcoin.exe.config
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\bin\Release\Bilcoin.exe.manifest
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\bin\Release\Bilcoin.application
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\bin\Release\Bilcoin.exe
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\bin\Release\Bilcoin.pdb
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\obj\Release\Bilcoin.csprojAssemblyReference.cache
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\obj\Release\Bilcoin.Form1.resources
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\obj\Release\Bilcoin.Properties.Resources.resources
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\obj\Release\Bilcoin.csproj.GenerateResource.cache
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\obj\Release\Bilcoin.csproj.CoreCompileInputs.cache
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\obj\Release\Bilcoin.exe.manifest
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\obj\Release\Bilcoin.application
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\obj\Release\Bilcoin.exe
+C:\Users\caspe\Desktop\Bilcoin\Bilcoin\obj\Release\Bilcoin.pdb
